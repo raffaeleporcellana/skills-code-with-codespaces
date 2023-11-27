@@ -4,9 +4,9 @@
   // Use the base codespace image
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
-  "remoteUser": "codespace",https://github.com/raffaeleporcellana/skills-code-with-codespaces/edit/main/.devcontainer/devcontainer.json#
-  "overrideCommand": false,
-   // Add the IDs of extensions you want installed when the container is created.
+  "remoteUser": "codespace",
+  "overrideCommand": false  ,
+ // Add the IDs of extensions you want installed when the container is created.
  "customizations": {
      "vscode": {
          "extensions": [
@@ -20,4 +20,3 @@
      }
  }
 }
-
